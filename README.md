@@ -1,2 +1,0 @@
-# simple-page
-React, TS
