@@ -2,7 +2,7 @@
   "name": "get-show-data",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://alexandr-paleev.github.io/simple-page",
+  "homepage": "https://AlexPaleev.github.io/simple-page",
   "dependencies": {
     "@reduxjs/toolkit": "^1.9.5",
     "@testing-library/jest-dom": "^5.16.5",
