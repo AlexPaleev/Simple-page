@@ -9,7 +9,6 @@ import { getUsers } from "../store/apiActions";
 const Users: React.FC = (): JSX.Element => {
   const dispatch = useAppDispatch();
   const [active, setActive] = useState(false);
-  const [showModal, setShowModal] = useState(true);
   const users = useAppSelector(
     (state: RootStateType) => state.usersSlice.users
   );
